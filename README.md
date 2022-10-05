@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web site<br>👯 I’m looking to collaborate on java projet<br>🌱 I’m currently learning web<br>💬 Ask me about linux , Java , javascript , html , css ,php
+🔭 I’m currently working on website<br>👯 I’m looking to collaborate on java projects<br>🌱 I’m currently learning web development at the moment<br>💬 Ask me about linux , Java , javascript , html , css ,php
 
 
 ## 🌐 Socials:
